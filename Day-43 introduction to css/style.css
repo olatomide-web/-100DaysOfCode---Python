@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 200px;
+    width: auto;
+    background-color: aqua;
+    margin: 30px 0px;
+}
+#heading{
+    color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
