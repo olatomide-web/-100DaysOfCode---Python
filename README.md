@@ -1,2 +1,4 @@
-# -100DaysOfCode---Python
-My coding lectures and projects to learn and develop my python skills so as to become an efficient and better python developer.
+# 100 DaysOfCode --- **Python**
+It's been fun learning **Python**
+
+Follow me as I learn!
