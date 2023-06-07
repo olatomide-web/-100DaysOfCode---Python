@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>data topic</title>
+    </head>
+    <body>
+        {% for data_topic in topics: %}
+
+            <h1>{{data_topic["what"] }}</h1>
+            <h2>{{data_topic["why"] }}</h2>
+
+        {% endfor %}
+        <h1>hello, data page</h1>
+    </body>
+</html>
